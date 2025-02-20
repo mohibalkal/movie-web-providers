@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/movie-web/providers.git"
+    "url": "https://github.com/mohibalkal/movie-web-providers.git"
   },
   "keywords": [
     "movie-web",
